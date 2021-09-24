@@ -35,12 +35,10 @@
 }
 
 .App-hero {
-  width: 100vw;
   height: 30vmin;
   min-height: 150px;
   background-color: #1e7157;
   position: relative;
-
   font-weight: 700;
   font-family: 'Titillium Web', 'Roboto', 'Avenir', 'Helvetica Neue', sans-serif;
   color: white;
